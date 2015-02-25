@@ -83,6 +83,10 @@ a:focus {
     color: #fff;
 }
 
+.navbar-custom .navbar-brand .small-icon {
+    display: inline;
+}
+
 .navbar-custom .navbar-brand .navbar-toggle:focus,
 .navbar-custom .navbar-brand .navbar-toggle:active {
     outline: 0;
